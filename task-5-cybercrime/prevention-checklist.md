@@ -30,4 +30,4 @@ If you are a victim of any cybercrime — phishing, UPI fraud, identity theft, o
 - 📞 **Helpline Number:** **1930** — available 24 hours a day, 7 days a week
 - 🏛️ **Local Police:** File an FIR at your nearest police station under the IT Act, 2000
 
-> **Act fast.** In financial fraud cases, reporting within the first few hours increases the chance of freezing the fraudulent transaction. Do not delay.
+
