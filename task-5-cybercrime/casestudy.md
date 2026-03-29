@@ -1,7 +1,5 @@
 # Cybercrime Case Study: Phishing
 
-## Cybercrime Type: Phishing
-
 ---
 
 ## Case Study: The Fake Bank Email Trap
