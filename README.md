@@ -49,7 +49,7 @@ Created a one-page infographic using **Canva** covering what digital literacy me
 Set up professional profiles on **GitHub**, **LinkedIn**, and **Kaggle**. Each platform builds a distinct part of my academic and professional digital identity.
 
 ### Task 3 – Coding & Collaboration Platforms
-Completed a beginner challenge on **HackerRank** and created a 5-question **Google Form** Digital Literacy Quiz for batchmates.
+Completed a beginner challenge on **Codechef** and created a 5-question **Google Form** Digital Literacy Quiz for batchmates.
 
 > 📋 **Google Form Link:** [Paste your Google Form link here]
 
