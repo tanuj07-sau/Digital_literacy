@@ -68,7 +68,7 @@ Case study on **Phishing** with a 10-point "Stay Safe Online" prevention checkli
 | Canva | https://canva.com |
 | GitHub | https://github.com |
 | LinkedIn | https://linkedin.com |
-| HackerRank | https://hackerrank.com |
+| Codechef | https://www.codechef.com |
 | Google Forms | https://forms.google.com |
 | Cyber Crime Portal | https://cybercrime.gov.in |
 | Cyber Helpline | 1930 (24x7) |
