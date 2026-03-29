@@ -7,12 +7,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Name** | [Your Full Name] |
-| **Registration No.** | [Your Reg No.] |
-| **Branch** | [Your Branch] |
+| **Name** | Tanuj Singh |
+| **Registration No.** | 25BCE11140|
+| **Branch** | CSE |
 | **Year** | First Year B.Tech |
 | **Course Code** | CSE0001 – Digital Literacy |
-| **Submission Date** | [Date] |
+| **Submission Date** | 31 March 2026 |
 
 ---
 
@@ -51,7 +51,7 @@ Set up professional profiles on **GitHub**, **LinkedIn**, and **Kaggle**. Each p
 ### Task 3 – Coding & Collaboration Platforms
 Completed a beginner challenge on **Codechef** and created a 5-question **Google Form** Digital Literacy Quiz for batchmates.
 
-> 📋 **Google Form Link:** [Paste your Google Form link here]
+> 📋 **Google Form Link:** https://forms.gle/pMKa2EuENN3vktGp6
 
 ### Task 4 – Professional Email & Etiquette Guide
 Drafted two professional emails and created a Social Media Do's and Don'ts checklist with 10 points.
